@@ -1,0 +1,2 @@
+# STUGETHER
+Gamified study app
